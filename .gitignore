@@ -6,3 +6,8 @@ kkcrc
 ac-comphist.dat
 ido.last
 *.???~
+*.??~
+elpa/
+var/
+.gitignore~
+init.elc
